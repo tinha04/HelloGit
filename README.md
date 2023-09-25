@@ -7,3 +7,6 @@ A welcome exercise for git users.
 
 name: john,
 favorite food: Pizza
+
+name: kaushik,
+favorite food: Biriyani
