@@ -9,4 +9,4 @@ name: john,
 favorite food: Pizza
 
 name: kaushik,
-favorite food: Hotdog
+favorite food: Hot dog
