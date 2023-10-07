@@ -10,3 +10,6 @@ favorite food: Pizza
 
 name: kaushik,
 favorite food: Hot dog
+
+name: tin,
+favorite food: Chicken wings
